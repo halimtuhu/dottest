@@ -4,6 +4,8 @@ Email : halimtuhuprasetyo@gmail.compact
 Langkah penggunaan :
 1. Clone terlebih dahulu
 2. Jalankan command 'composer install'
+3. Jalankan command 'copy .env.example .env'
+4. Jalankan command 'php artisan key:generate'
 3. Membuat database baru
 4. Konfigurasi .env mulai dari database dan API RajaOngkir
 5. Jalankan command 'php artisan migrate:fresh'
